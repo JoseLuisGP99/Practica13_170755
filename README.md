@@ -1,4 +1,4 @@
-# DMI_PRACTICA12_170755
+# DMI_PRACTICA13_170755
 
 
 [![Encabezado.png](https://i.postimg.cc/PJKtvHNC/Encabezado.png)](https://postimg.cc/K3kXCdPb)
@@ -22,7 +22,7 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Práctica 12:   Implementacion de un paginador para mostrar el resultado de polulares, proximamente, al aire y mejor valoradas.|
+| Nombre  |  Práctica 13:   Implementacion de un paginador para mostrar el resultado de polulares, proximamente, al aire y mejor valoradas.|
 | Descripción  |  Esta practica se retomo la practica 11, en esta ocación se implemento codigo al HttpHandler para que la app permitiera mostrar diferente contenido en cada vista, la problematica de la practica se vio en el llamado de las peliculas proximas, la vista de series aplicando la misma formula que el de peliculas, colocando cada una es una card, cambiando la variable "movies" a la varieble "media", haciendo referencia que ya no solo se manda a traer las peliculas sino tambien las series.|
 |  Fecha de Actividad  |  20 de Octubre de 2023  |
 
@@ -31,6 +31,8 @@
 
 &nbsp;
 &nbsp;
+
+
 
 
 ## Imagenes de Prueba

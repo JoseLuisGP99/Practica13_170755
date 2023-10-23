@@ -22,9 +22,9 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Práctica 13:   Implementacion de un paginador para mostrar el resultado de polulares, proximamente, al aire y mejor valoradas.|
-| Descripción  |  Esta practica se retomo la practica 11, en esta ocación se implemento codigo al HttpHandler para que la app permitiera mostrar diferente contenido en cada vista, la problematica de la practica se vio en el llamado de las peliculas proximas, la vista de series aplicando la misma formula que el de peliculas, colocando cada una es una card, cambiando la variable "movies" a la varieble "media", haciendo referencia que ya no solo se manda a traer las peliculas sino tambien las series.|
-|  Fecha de Actividad  |  20 de Octubre de 2023  |
+| Nombre  |  Práctica 13:  Implementacion de un paginador para mostrar el resultado de polulares, proximamente, al aire y mejor valoradas.|
+| Descripción  |  Continuamos con la aplicación, en esta parte agregamos archivos, con los cuales obtuvimos que salieran carteleras distintas dependiendo el paginador, ambas muestran información distinta. Es una aplicación desarrollada en Flutter y es una app centrada en la visualización de peliculas y series populares. Permite a los usuarios acceder a una amplia gama de series televisivas y explorar contenido variado y actualizado. Con una interfaz amigable e intuitiva, los usuarios pueden descubrir información relevante sobre cada serie, incluyendo su título, calificación promedio, sinopsis, fecha de lanzamiento y géneros asociados.|
+|  Fecha de Actividad  |  23 de Octubre de 2023  |
 
 &nbsp;
 &nbsp;
